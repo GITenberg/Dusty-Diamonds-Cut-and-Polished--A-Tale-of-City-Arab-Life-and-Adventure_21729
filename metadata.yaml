@@ -1,0 +1,35 @@
+_repo: Dusty-Diamonds-Cut-and-Polished--A-Tale-of-City-Arab-Life-and-Adventure_21729
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Farmers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Accidents -- Juvenile fiction'
+- !lcsh 'Cycling -- Juvenile fiction'
+title: 'Dusty Diamonds Cut and Polished: A Tale of City Arab Life and Adventure'
+url: http://www.gutenberg.org/ebooks/21729
